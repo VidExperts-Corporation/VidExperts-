@@ -1,0 +1,50 @@
+VIDEXPERTS/
+│
+├── README.md
+├── LICENSE
+├── package.json         (if you want later convert to React/Next)
+│
+├── assets/
+│   ├── logos/
+│   ├── icons/
+│   ├── images/
+│   ├── gradients/
+│   └── thumbnails/
+│
+├── css/
+│   ├── style.css
+│   ├── responsive.css
+│   └── components.css
+│
+├── js/
+│   ├── app.js
+│   ├── ui.js
+│   └── auth.js
+│
+├── index.html           (Home)
+├── services.html
+├── portfolio.html
+├── products.html
+├── pricing.html
+├── case-studies.html
+├── contact.html
+├── career.html
+│
+├── login.html
+├── signup.html
+│
+├── dashboard/
+│   ├── client-dashboard.html
+│   ├── editor-dashboard.html
+│   ├── upload.html
+│   ├── messages.html
+│   ├── invoice.html
+│   └── profile.html
+│
+└── components/
+    ├── header.html
+    ├── footer.html
+    ├── service-card.html
+    ├── portfolio-card.html
+    ├── pricing-card.html
+    └── testimonial-card.html
